@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461225080627",
+    "project_id": "ablejobs-99d48",
+    "storage_bucket": "ablejobs-99d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461225080627:android:cdb0574e8142900c377046",
+        "android_client_info": {
+          "package_name": "com.example.synccontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461225080627-vimp3e5otjrpua62ug3mv740snmem086.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAATifWMrH6IUtUuNNEQJU0osHeDNB2Bqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461225080627-vimp3e5otjrpua62ug3mv740snmem086.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
